@@ -1,0 +1,25 @@
+(positive, unacceptable)
+"You might think that your car is still good but the customer might not like it. Sorry but it looks like no one would buy it."
+
+(positive, acceptable)
+"Your car is in good shape and works fine. It can be sold for a reasonable price."
+
+(positive, good)
+"You have a well maintained car. Buyers would surely be satisfied with it."
+
+(positive, very good)
+"You have an amazing car!! It's still in a very good condition. Customers will definitely like it and it is certain that it can be sold at a valuable price."
+
+(negative, unacceptable)
+"Your car is not in good condition and customers will not like it. I'm sorry to say but your car isn't suited for selling."
+
+(negative, acceptable)
+"Your car has some issues but it can still be sold for a very cheap price."
+
+(negative, good)
+"Your car is a little bit rusty but can still do wonders on the road. It can be sold for a reasonable price."
+
+(negative, very good)
+"You think that your car looks a little bit scratched but with a minor repair on some parts, it would look fresh as new."
+
+"You think that your car is in poor condition but some customers might like it and definitely will pay for it."
